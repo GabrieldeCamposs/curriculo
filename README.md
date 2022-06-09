@@ -1,2 +1,2 @@
 # curriculo
-primeiro repositorio
+primeiro repositorio para a diciplina de FI da escola ETEC
